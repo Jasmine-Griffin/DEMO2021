@@ -1,0 +1,17 @@
+#ignore everything 
+
+!*images/
+!*css/
+!*js/
+!*html/
+!*php/
+
+!*.png
+!*.jpg
+!*.gif
+!*.ico
+!*.html
+!*.css
+!*.js
+!*.php
+
